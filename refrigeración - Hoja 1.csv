@@ -1,0 +1,7 @@
+,,,,
+Tipo de Centro de Datos,Capacidad Estimada (MW),Consumo Diario de Agua (litros),Consumo Anual Aproximado (litros),Fuente o Ejemplo
+Pequeño / Local,0.5 – 1 MW,10.000 – 20.000,3 – 7 millones,Estimación general
+Mediano / Empresarial,1 – 5 MW,68.000,25 millones,Sitra
+Hiperescala (como Google),20 – 50 MW,550.000,200 millones,GRESB
+Microsoft (caso específico),~45 MW,~342.000,125 millones,Xataka
+Google (todos sus centros),—,—,15.800 millones,Nature
